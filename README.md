@@ -40,4 +40,5 @@ python script_name.py
 GIFs are saved in the `output` folder with the same names as the original `.mp4` files.
 
 Robot Execution :
+
 ![Demo](execution/demo.gif)
